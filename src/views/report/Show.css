@@ -1,0 +1,19 @@
+#main{
+    text-decoration: none;
+      font-size: 35px;
+      color: black;
+  
+  }
+  .img-icon{
+      height: 50px;
+      width: 50px;
+      margin-top: -10px;
+  }
+  .back{
+      margin-top: 350px;
+      text-decoration: none;
+  
+  }
+  .show-content{
+     margin: 10px;
+  }
